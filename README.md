@@ -22,9 +22,9 @@ This project was put together using create-react-app (CRA). You will not need to
 - [ ]  Start up the app using `npm start`
 - [ ]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ]  Push commits: git push origin `<firstName-lastName>`.
-
+ 
 ### **Tasks**
-
+.
 - [ ]  This app can be broken down to two main sections that you'll need to implement for this project: the Search Bar and the Posts.
 - [ ]  To complete this project there will be a single instance of the Search Bar being rendered at the top of the page, as well as a Post Container and a Comment Section for every piece of mock data in the `dummy-data.js` file.
 - [ ]  Use what you learned yesterday to add and update state for the likes so that when you click on the heart icon it updates the number of likes.
